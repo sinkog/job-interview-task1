@@ -4,3 +4,6 @@
 [submodule "task2"]
 	path = task2
 	url = git@github.com:sinkog/job-interview-task2.git
+[submodule "task4"]
+	path = task4
+	url = git@github.com:sinkog/job-interview-task4.git
