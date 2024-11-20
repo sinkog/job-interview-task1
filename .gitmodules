@@ -1,3 +1,6 @@
 [submodule "task1"]
 	path = task1
 	url = git@github.com:sinkog/debian_install_example.git
+[submodule "task2"]
+	path = task2
+	url = git@github.com:sinkog/job-interview-task2.git
